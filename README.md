@@ -1,0 +1,1 @@
+Simple install and launch for ComfyUI running on Ubuntu 24.04 with rocm for AMD GPUs.
